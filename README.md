@@ -42,8 +42,7 @@ I'm Eugene,</h1>
 [Appsmith](https://github.com/appsmithorg/appsmith/blob/master/CONTRIBUTING.md)
 [elastic Search](https://github.com/elastic/elasticsearch)
 
-### 🤔 I’m looking for help with
-[Specific challenge you are facing]
+
 
 💬 Ask me about
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -58,4 +57,4 @@ I'm Eugene,</h1>
   </a>&nbsp;&nbsp;
 
 ### ⚡ Fun fact
-[Interesting tidbit about yourself]
+I absolutely Love Pizza! :)
