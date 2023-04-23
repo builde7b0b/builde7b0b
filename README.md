@@ -1,5 +1,18 @@
+
+
 ### Hi there 👋
-I'm Eugene, a Full-Stack Software Engineer based in Phoenix. Welcome to my GitHub profile!
+I'm Eugene, a Full-Stack Software Engineer based in Phoenix. Welcome to my GitHub profile
+
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/alexandresanlim/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/alexandresanlim">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
 <!--
 **builde7b0b/builde7b0b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
