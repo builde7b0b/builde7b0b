@@ -13,12 +13,12 @@ I'm Eugene, a Full-Stack Software Engineer based in Phoenix. Welcome to my GitHu
 </p>
 
 
-🔭 I’m currently working on
+### 🔭 I’m currently working on
 [Three JS Portfolio / Vite](https://github.com/builde7b0b/3D-Portfolio-Three.js)
 [Interapt + GA Full-Stack SE Bootcamp](https://github.com/builde7b0b/Full-Stack-Bootcamp-Notes)
 [OpenAI Chatbot in React](https://github.com/builde7b0b/Gbudy)
 
-🌱 I’m currently learning
+### 🌱 I’m currently learning
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
@@ -26,11 +26,11 @@ I'm Eugene, a Full-Stack Software Engineer based in Phoenix. Welcome to my GitHu
 ![image](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
 ![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-👯 I’m looking to collaborate on
+### 👯 I’m looking to collaborate on
 [Appsmith](https://github.com/appsmithorg/appsmith/blob/master/CONTRIBUTING.md)
 [elastic Search](https://github.com/elastic/elasticsearch)
 
-🤔 I’m looking for help with
+### 🤔 I’m looking for help with
 [Specific challenge you are facing]
 
 💬 Ask me about
@@ -39,11 +39,11 @@ I'm Eugene, a Full-Stack Software Engineer based in Phoenix. Welcome to my GitHu
 ![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 [![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-📫 How to reach me
+### 📫 How to reach me
 [ecbjr.it@gmail.com]
  <a href="[https://www.linkedin.com/in/alexandresanlim/](https://www.linkedin.com/in/eugene-brown-jr-38210b99/)">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 
-⚡ Fun fact
+### ⚡ Fun fact
 [Interesting tidbit about yourself]
