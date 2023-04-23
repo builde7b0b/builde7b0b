@@ -1,19 +1,22 @@
 
 
+
+<p align='center'>
 ### Hi there 👋
 I'm Eugene, a Full-Stack Software Engineer based in Phoenix. Welcome to my GitHub profile
 
-<p align='center'>
   
   <a href="[https://www.linkedin.com/in/alexandresanlim/](https://www.linkedin.com/in/eugene-brown-jr-38210b99/)">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  
-  
-</p>
+
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=builde7b0b" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=builde7b0b" />
+
+  
+  
+</p>
 
 
 
