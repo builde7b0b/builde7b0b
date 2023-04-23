@@ -2,8 +2,11 @@
 
 
 <p align='center'>
-### Hi there 👋
-I'm Eugene, a Full-Stack Software Engineer based in Phoenix. Welcome to my GitHub profile
+<h1 align='center'> Hi there 👋
+I'm Eugene,</h1>
+<p align='center'>
+  a Full-Stack Software Engineer based in Phoenix. Welcome to my GitHub profile
+</p>
 
   
   <a href="[https://www.linkedin.com/in/alexandresanlim/](https://www.linkedin.com/in/eugene-brown-jr-38210b99/)">
