@@ -11,6 +11,10 @@ I'm Eugene, a Full-Stack Software Engineer based in Phoenix. Welcome to my GitHu
   
   
 </p>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=builde7b0b" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=builde7b0b" />
+
 
 
 ### 🔭 I’m currently working on
