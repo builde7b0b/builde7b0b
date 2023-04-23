@@ -5,20 +5,18 @@ I'm Eugene, a Full-Stack Software Engineer based in Phoenix. Welcome to my GitHu
 
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/alexandresanlim/">
+  <a href="[https://www.linkedin.com/in/alexandresanlim/](https://www.linkedin.com/in/eugene-brown-jr-38210b99/)">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/alexandresanlim">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+  
   
 </p>
 
 
 🔭 I’m currently working on
-[Project 1]
-[Project 2]
-[Project 3]
+[Three JS Portfolio / Vite](https://github.com/builde7b0b/3D-Portfolio-Three.js)
+[Interapt + GA Full-Stack SE Bootcamp](https://github.com/builde7b0b/Full-Stack-Bootcamp-Notes)
+[OpenAI Chatbot in React](https://github.com/builde7b0b/Gbudy)
 
 🌱 I’m currently learning
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -38,12 +36,14 @@ I'm Eugene, a Full-Stack Software Engineer based in Phoenix. Welcome to my GitHu
 💬 Ask me about
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-[Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-[React] (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+[![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 📫 How to reach me
-[Email address]
-[LinkedIn profile]
+[ecbjr.it@gmail.com]
+ <a href="[https://www.linkedin.com/in/alexandresanlim/](https://www.linkedin.com/in/eugene-brown-jr-38210b99/)">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
 
 ⚡ Fun fact
 [Interesting tidbit about yourself]
