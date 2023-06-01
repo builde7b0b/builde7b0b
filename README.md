@@ -11,7 +11,7 @@ I'm Eugene,</h1>
 </p>
 
   <p align='center'>
-  <a href="[https://www.linkedin.com/in/alexandresanlim/](https://www.linkedin.com/in/eugene-brown-jr-38210b99/)">
+  <a href="https://www.linkedin.com/in/eugene-brown-jr-38210b99/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 
@@ -48,11 +48,11 @@ I'm Eugene,</h1>
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-[![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 📫 How to reach me
 [ecbjr.it@gmail.com]
- <a href="[https://www.linkedin.com/in/alexandresanlim/](https://www.linkedin.com/in/eugene-brown-jr-38210b99/)">
+ <a href="https://www.linkedin.com/in/eugene-brown-jr-38210b99/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 
