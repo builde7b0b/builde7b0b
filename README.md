@@ -11,7 +11,7 @@ I'm Eugene,</h1>
 </p>
 
   <p align='center'>
-  <a href="https://www.linkedin.com/in/eugene-brown-jr-38210b99/">
+<!--   <a href="https://www.linkedin.com/in/eugene-brown-jr-38210b99/"> -->
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 
@@ -52,7 +52,7 @@ I'm Eugene,</h1>
 
 ### 📫 How to reach me
 [ecbjr.it@gmail.com]
- <a href="https://www.linkedin.com/in/eugene-brown-jr-38210b99/">
+ 
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 
