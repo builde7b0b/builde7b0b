@@ -7,7 +7,7 @@
 <h1 align='center'> Hi there 👋
 I'm Eugene,</h1>
 <p align='center'>
-  a Full-Stack Software Engineer based in Phoenix. Welcome to my GitHub profile
+  Founder & Principal Engineer — Operating across Tokyo, Berlin, and Columbus.
 </p>
 
   <p align='center'>
