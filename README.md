@@ -96,8 +96,8 @@ Eight public repos, each with its own decoded README. Select a signal to open it
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/builde7b0b/dot-talking-pet-ai"><img src="https://raw.githubusercontent.com/builde7b0b/dot-talking-pet-ai/HEAD/docs/assets/readme/banner.svg" width="100%" alt="dot-talking-pet-ai banner"></a><br>
-      <b><a href="https://github.com/builde7b0b/dot-talking-pet-ai">dot-talking-pet-ai</a></b><br>
+      <a href="https://github.com/builde7b0b/dot-companion"><img src="https://raw.githubusercontent.com/builde7b0b/dot-companion/HEAD/docs/assets/readme/banner.svg" width="100%" alt="dot-talking-pet-ai banner"></a><br>
+      <b><a href="https://github.com/builde7b0b/dot-companion">dot-companion</a></b><br>
       <sub>Dot, a talking AI pet that keeps you company while you build. Works in the browser, even offline.</sub>
     </td>
     <td width="50%" valign="top">
@@ -108,37 +108,37 @@ Eight public repos, each with its own decoded README. Select a signal to open it
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/builde7b0b/Colorful-Web-Systems"><img src="https://raw.githubusercontent.com/builde7b0b/Colorful-Web-Systems/HEAD/docs/assets/readme/banner.svg" width="100%" alt="Colorful-Web-Systems banner"></a><br>
-      <b><a href="https://github.com/builde7b0b/Colorful-Web-Systems">Colorful-Web-Systems</a></b><br>
+      <a href="https://github.com/builde7b0b/voltage-design-kit"><img src="https://raw.githubusercontent.com/builde7b0b/voltage-design-kit/HEAD/docs/assets/readme/banner.svg" width="100%" alt="Colorful-Web-Systems banner"></a><br>
+      <b><a href="https://github.com/builde7b0b/voltage-design-kit">voltage-design-kit</a></b><br>
       <sub>A source of truth for bold, colorful, section-by-section web brands.</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/builde7b0b/tech-stack-standard"><img src="https://raw.githubusercontent.com/builde7b0b/tech-stack-standard/HEAD/docs/assets/readme/banner.svg" width="100%" alt="tech-stack-standard banner"></a><br>
-      <b><a href="https://github.com/builde7b0b/tech-stack-standard">tech-stack-standard</a></b><br>
+      <a href="https://github.com/builde7b0b/stack-doctrine"><img src="https://raw.githubusercontent.com/builde7b0b/stack-doctrine/HEAD/docs/assets/readme/banner.svg" width="100%" alt="tech-stack-standard banner"></a><br>
+      <b><a href="https://github.com/builde7b0b/stack-doctrine">stack-doctrine</a></b><br>
       <sub>One platform, one job: Netlify, Supabase, Railway.</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/builde7b0b/IOS-Resources"><img src="https://raw.githubusercontent.com/builde7b0b/IOS-Resources/HEAD/docs/assets/readme/banner.svg" width="100%" alt="IOS-Resources banner"></a><br>
-      <b><a href="https://github.com/builde7b0b/IOS-Resources">IOS-Resources</a></b><br>
+      <a href="https://github.com/builde7b0b/ios-doctrine"><img src="https://raw.githubusercontent.com/builde7b0b/ios-doctrine/HEAD/docs/assets/readme/banner.svg" width="100%" alt="IOS-Resources banner"></a><br>
+      <b><a href="https://github.com/builde7b0b/ios-doctrine">ios-doctrine</a></b><br>
       <sub>Known-good foundations for iOS apps, Expo and native Xcode.</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/builde7b0b/2026-AI-Strategy"><img src="https://raw.githubusercontent.com/builde7b0b/2026-AI-Strategy/HEAD/docs/assets/readme/banner.svg" width="100%" alt="2026-AI-Strategy banner"></a><br>
-      <b><a href="https://github.com/builde7b0b/2026-AI-Strategy">2026-AI-Strategy</a></b><br>
+      <a href="https://github.com/builde7b0b/operator-doctrine"><img src="https://raw.githubusercontent.com/builde7b0b/operator-doctrine/HEAD/docs/assets/readme/banner.svg" width="100%" alt="2026-AI-Strategy banner"></a><br>
+      <b><a href="https://github.com/builde7b0b/operator-doctrine">operator-doctrine</a></b><br>
       <sub>Operator prompts, routing doctrine and a workflow-tool blueprint.</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/builde7b0b/PitGPT"><img src="https://raw.githubusercontent.com/builde7b0b/PitGPT/HEAD/docs/assets/readme/hero.png" width="100%" alt="PitGPT strategy dashboard screenshot"></a><br>
-      <b><a href="https://github.com/builde7b0b/PitGPT">PitGPT</a></b><br>
+      <a href="https://github.com/builde7b0b/pitwall"><img src="https://raw.githubusercontent.com/builde7b0b/pitwall/HEAD/docs/assets/readme/hero.png" width="100%" alt="PitGPT strategy dashboard screenshot"></a><br>
+      <b><a href="https://github.com/builde7b0b/pitwall">pitwall</a></b><br>
       <sub>An AI race engineer for the Toyota GR Cup.</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/builde7b0b/Threadmaker"><img src="https://raw.githubusercontent.com/builde7b0b/Threadmaker/HEAD/docs/assets/readme/thread.png" width="100%" alt="ThreadMaker generated-thread screenshot"></a><br>
-      <b><a href="https://github.com/builde7b0b/Threadmaker">Threadmaker</a></b><br>
+      <a href="https://github.com/builde7b0b/threadsmith"><img src="https://raw.githubusercontent.com/builde7b0b/threadsmith/HEAD/docs/assets/readme/thread.png" width="100%" alt="ThreadMaker generated-thread screenshot"></a><br>
+      <b><a href="https://github.com/builde7b0b/threadsmith">threadsmith</a></b><br>
       <sub>Turn a ChatGPT screenshot into a ready-to-post Twitter thread.</sub>
     </td>
   </tr>
