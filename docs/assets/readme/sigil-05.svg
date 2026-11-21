@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="section 05">
+<circle cx="32" cy="32" r="29" fill="none" stroke="hsl(265,100%,64%)" stroke-width="1.5" stroke-dasharray="3 6"><animateTransform attributeName="transform" type="rotate" from="0 32 32" to="360 32 32" dur="12s" repeatCount="indefinite"/></circle>
+<path d="M32 9 L52 20.5 V43.5 L32 55 L12 43.5 V20.5 Z" fill="#04050a" stroke="hsl(265,100%,64%)" stroke-width="2"/>
+<path d="M32 15 L47 23.5 V40.5 L32 49 L17 40.5 V23.5 Z" fill="none" stroke="hsl(45,95%,66%)" stroke-width="1" opacity=".6"><animate attributeName="opacity" values=".2;.8;.2" dur="3s" repeatCount="indefinite"/></path>
+<text x="32" y="38" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="700" font-size="16" fill="#eafffb">05</text>
+</svg>
